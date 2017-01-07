@@ -1,0 +1,27 @@
+body {
+	background: linear-gradient(to right, #758990, #e4edf0);
+	width: 1152px;
+	height: 520px;
+}
+#pacman,
+.pacman {
+	width: 50px;
+	position: relative; 
+}
+#ghost,
+.ghost {
+	width: 50px;
+	position: absolute;
+}
+.rotate0 {
+	transform: rotate(0deg);
+}
+.rotate90 {
+	transform: rotate(90deg);
+}
+.rotate180 {
+	transform: rotate(180deg);
+}
+.rotate270 {
+	transform: rotate(270deg);
+}*/
